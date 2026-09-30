@@ -8,6 +8,4 @@ fuck off no installation because i need to learn c  c c c c. c c c c. c. c c Ã§Ä
 ```
 
 # <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9e75911d-bacb-4abe-8392-076f0fd3b1af" /> license
-```
 [click](https://github.com/udoee/macdroid/tree/main?tab=License-1-ov-file#)
-```
